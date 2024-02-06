@@ -1,0 +1,13 @@
+"field #","field title",value,explanation
+1,"Overall evaluation",-3,"strong reject"
+1,"Overall evaluation",-2,reject
+1,"Overall evaluation",-1,"weak reject"
+1,"Overall evaluation",0,"borderline paper"
+1,"Overall evaluation",1,"weak accept"
+1,"Overall evaluation",2,accept
+1,"Overall evaluation",3,"strong accept"
+2,"Reviewer's confidence",1,(none)
+2,"Reviewer's confidence",2,(low)
+2,"Reviewer's confidence",3,(medium)
+2,"Reviewer's confidence",4,(high)
+2,"Reviewer's confidence",5,(expert)
